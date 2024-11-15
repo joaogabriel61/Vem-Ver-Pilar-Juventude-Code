@@ -7,6 +7,7 @@
 - No projeto, fiquei responsável por auxiliar no desenvolvimento da proposta, criação de modelos e construção do site informativo, que está presente neste repositório. Mais informações sobre o projeto estão disponíveis na leitura do site, além das redes sociais do projeto, presentes no site.
 
 
+
 - Gerenciamento de projetos;
 - Pitch;
 - StoryTelling;
